@@ -8,3 +8,5 @@ layout.md
 variables.env
 *.env
 .keystone
+sick-fits/frontend/node_modules
+sick-fits/backend/node_modules
